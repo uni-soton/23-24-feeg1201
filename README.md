@@ -1,14 +1,17 @@
-# JupyterLite Demo
+# FEEG1012 23-24 Additional resources
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://uni-soton.github.io/23-24-feeg1201/lab/index.html)
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+## Interactive Python examples
 
-## ✨ Try it in your browser ✨
+Here you can find examples from the Python lectures of FEEG1012 for interactive exploration in your browser:
 
-➡️ **https://jupyterlite.github.io/demo**
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+- you do not need to install any python software
+- the examples run in your browser in a Jupyter Lab environment
+
+- any files you save may be lost (or saved in your browser cache)
+  - if you want to keep any modified files, make sure you download them from the Jupyter Lab (Open the relevant file, then go to `File` -> `Download`).
 
 ## Requirements
 
@@ -17,13 +20,5 @@ JupyterLite is being tested against modern web browsers:
 - Firefox 90+
 - Chromium 89+
 
-## Deploy your JupyterLite website on GitHub Pages
 
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+Hans Fangohr, University of Southampton
