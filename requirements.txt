@@ -35,8 +35,8 @@ ipyleaflet
 plotly>=5,<6
 bqplot
 
-# for feeg1012
-numpy
-scipy
-matplotlib
-sympy
+# # for feeg1012
+# numpy
+# scipy
+# matplotlib
+# sympy
