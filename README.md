@@ -1,10 +1,10 @@
 # FEEG1012 23-24 Additional resources
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://uni-soton.github.io/23-24-feeg1201/lab/index.html)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://uni-soton.github.io/23-24-feeg1201/lab/?path=contents.ipynb)
 
-## Interactive Python examples
+## Interactive Python examples: executable lecture notes
 
-[Here](https://uni-soton.github.io/23-24-feeg1201/lab/index.html) you can find examples from the Python lectures of FEEG1012 for interactive exploration in your browser:
+[Here](https://uni-soton.github.io/23-24-feeg1201/lab/index.html) you can find examples from the Python lectures of FEEG1012 for interactive exploration in your browser: https://uni-soton.github.io/23-24-feeg1201/lab/index.html)
 
 - you do not need to install any python software
 - the examples run in your browser in a Jupyter Lab environment (called "JupyterLite")
